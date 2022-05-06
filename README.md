@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BozhidarBozhkov)](https://github.com/BozhidarBozhkov/github-readme-stats)
 
-[![BozhidarBozhkov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BozhidarBozhkov)](https://github.com/BozhidarBozhkov/github-readme-stats)
+[![Bozhidar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BozhidarBozhkov)](https://github.com/BozhidarBozhkov/github-readme-stats)
 
 <!---
 BozhidarBozhkov/BozhidarBozhkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
