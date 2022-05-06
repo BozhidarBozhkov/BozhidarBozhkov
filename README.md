@@ -8,6 +8,7 @@
 
 [![BozhidarBozhkov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BozhidarBozhkov)](https://github.com/BozhidarBozhkov/github-readme-stats)
 
+[![Bozhidar's GitHub stats](https://github-readme-stats.vercel.app/api?username=BozhidarBozhkov)](https://github.com/BozhidarBozhkov/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BozhidarBozhkov)](https://github.com/BozhidarBozhkov/github-profile-trophy)
 
