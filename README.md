@@ -4,7 +4,8 @@
 ![ Alt text](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) / ! [](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 ![ Alt text](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) / ! [](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BozhidarBozhkov)](https://github.com/BozhidarBozhkov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BozhidarBozhkov)]
+(https://github.com/BozhidarBozhkov/github-readme-stats)
 
 <!---
 BozhidarBozhkov/BozhidarBozhkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
